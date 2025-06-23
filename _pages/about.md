@@ -42,11 +42,15 @@ Computer Science Skills
 
 Soft Skills
 ------
-**Communicative** - As a result of my years as a black belt, I am able to communicate my thoughts and ideas very well, as I mentored countless students in a very complex sport such as martial arts.
-**Analytical** - I earned an IB Diploma at the International Academy West, and my time there thought me how to meticulously plan and evaluate problems with a certain level of calmness. I was taught how to be a critical thinker, with the ability to speak up, and yet take in other's opinions without arrogance.
-**Creative** - My background in sports, chess, music, and education, have all helped me to develop a creative mind, suited for problem solving. From the moment I took my first computer science class, I enjoyed the intuitiveness and the freedom that came with developing and debugging.
-**Team Leader** -  As a captain of the football team and tournament team in highschool for martial arts, and the chess club president, I enjoy being at the forefront. I take initiative and pride in what I am passionate in.
-**Open Minded** - My educational background humbled me in ways I couldn't imagine. I take pleasure in learning from my failures, growing is more important than being correct and having things my way. I understand I am incredibly new in this field, and am eager to learn from the best.
+- **Communicative** - As a result of my years as a black belt, I am able to communicate my thoughts and ideas very well, as I mentored countless students in a very complex sport such as martial arts.
+
+- **Analytical** - I earned an IB Diploma at the International Academy West, and my time there thought me how to meticulously plan and evaluate problems with a certain level of calmness. I was taught how to be a critical thinker, with the ability to speak up, and yet take in other's opinions without arrogance.
+
+- **Creative** - My background in sports, chess, music, and education, have all helped me to develop a creative mind, suited for problem solving. From the moment I took my first computer science class, I enjoyed the intuitiveness and the freedom that came with developing and debugging.
+
+- **Team Leader** -  As a captain of the football team and tournament team in highschool for martial arts, and the chess club president, I enjoy being at the forefront. I take initiative and pride in what I am passionate in.
+
+- **Open Minded** - My educational background humbled me in ways I couldn't imagine. I take pleasure in learning from my failures, growing is more important than being correct and having things my way. I understand I am incredibly new in this field, and am eager to learn from the best.
 
 Prior Work
 ==========
@@ -73,19 +77,21 @@ Chipotle Crew Member ~ March 2025 - May 2025
 REFERENCES:
 ===========
 (Letter of Recommendation upon request)
-Kathy Patterson ~ 810-252-1345 
+- Kathy Patterson ~ 810-252-1345 
+
 (Letter of Recommendation upon request)
-Coach James Calhoun ~ 248-830-1888
-Marla Ward ~ 734-674-7660
+- Coach James Calhoun ~ 248-830-1888
+
+- Marla Ward ~ 734-674-7660
 
 EXTRACURRICULURS:
 ================
 
-8 years - Lakeland High School Football
-9 years - Current TSMA Martial Arts
-2 years - President of Chess Club
-3 months (Current) - Imagine Software Club
-1 Year (Current) – Phi Kappa Psi Fraternity (Community Service)
+- 8 years - Lakeland High School Football
+- 9 years - Current TSMA Martial Arts
+- 2 years - President of Chess Club
+- 3 months (Current) - Imagine Software Club
+- 1 Year (Current) – Phi Kappa Psi Fraternity (Community Service)
 
 
 
