@@ -19,7 +19,8 @@ My Goals:
 
 Education
 ======
-  As a Computer Science student at Michigant State, I my studies involve numerous classes to further my experience in computer science. These could include:
+  In highschool I attended the International Academy West, where I earned the prestigious IB diploma and focused on a STEM based curriculum. I went through rigorous IB standards, and achieved a 1420 on my SAT, and a 31 on my ACT. I graduated with a 4.1 GPA.
+  As a Computer Science student at Michigant State, I my studies involve numerous classes to further my experience in computer science. These include:
   ------
   | Class   | Description |
   | ------- | ----------- |
@@ -31,26 +32,60 @@ Education
   | MTH 234 | Multi Variable Calculus (Calculus 3) |
   | PHY 183 | Physics for Engineers |
 
-Site-wide configuration
+Computer Science Skills
+======
+- Intermediate C++ Developer 
+- Intermediate Python Developer
+- OOP Programming
+- Beginner Data Scientist (Somewhat Proficient in Python Libraries)
+- Proficient Excel
+
+Soft Skills
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Communicative** - As a result of my years as a black belt, I am able to communicate my thoughts and ideas very well, as I mentored countless students in a very complex sport such as martial arts.
+**Analytical** - I earned an IB Diploma at the International Academy West, and my time there thought me how to meticulously plan and evaluate problems with a certain level of calmness. I was taught how to be a critical thinker, with the ability to speak up, and yet take in other's opinions without arrogance.
+**Creative** - My background in sports, chess, music, and education, have all helped me to develop a creative mind, suited for problem solving. From the moment I took my first computer science class, I enjoyed the intuitiveness and the freedom that came with developing and debugging.
+**Team Leader** -  As a captain of the football team and tournament team in highschool for martial arts, and the chess club president, I enjoy being at the forefront. I take initiative and pride in what I am passionate in.
+**Open Minded** - My educational background humbled me in ways I couldn't imagine. I take pleasure in learning from my failures, growing is more important than being correct and having things my way. I understand I am incredibly new in this field, and am eager to learn from the best.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Prior Work
+==========
+**WORK EXPERIENCE:**
 
-**Markdown generator**
+*Mystic Creek Golf Course & Banquet Center, Milford, MI*
+Chefs Assistant ~ May – August 2023 - Present	             
+Kitchen Assistant ~ May – August of 2022
+Performed a multitude of tasks and functions throughout the kitchen. 
+Prepped and prepared food for all clubhouse events; golf outings, pub menu and special events. Food service provides for an estimated 400 – 600 guests per week. Timely and accurate completion of all opening & closing procedures. Conducts weekly inventory, receiving processing and restocking of all food and beverages.  Assisted Food & Beverage Manager with end of year inventory. Created a monthly and daily cleaning schedule. Maintained kitchen cleanliness, organization and properly stocking standards, as well as monitored sanitation requirements, food production, portion control and quality goals.  Responsible for training and mentoring new staff. 27 Hole Course. Facility capacity: 400
+(Outside of School)
+*19/hr (around 28/hr with gratuity)*
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+*Belle Tire, East Lansing, MI*
+Tire Technician ~ October 2024 - February 2025
+(In School)
+*15/hr*
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+*Chipotle Mexican Grill*
+Chipotle Crew Member ~ March 2025 - May 2025
+(In School)
+*14/hr*
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+REFERENCES:
+===========
+(Letter of Recommendation upon request)
+Kathy Patterson ~ 810-252-1345 
+(Letter of Recommendation upon request)
+Coach James Calhoun ~ 248-830-1888
+Marla Ward ~ 734-674-7660
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+EXTRACURRICULURS:
+================
+
+8 years - Lakeland High School Football
+9 years - Current TSMA Martial Arts
+2 years - President of Chess Club
+3 months (Current) - Imagine Software Club
+1 Year (Current) – Phi Kappa Psi Fraternity (Community Service)
+
+
+
