@@ -8,10 +8,4 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About Me"
-
-  - title: "Technical Skills"
-      
-  - title: "Experience" 
-    
-  - title: "Education"
+  - title: "My Resume"
