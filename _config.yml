@@ -22,7 +22,7 @@ repository               : "RomanRoscoe2027/RomanRoscoe2027.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Professional_Headshot.png"
   name             : "Roman Roscoe"
   pronouns         : "he/him"  
   bio              : "Aspiring Junior C++ and Python Developer"
