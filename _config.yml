@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Roman Roscoe's Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Roman Roscoe"
+  pronouns         : "he/him"  
+  bio              : "Aspiring Junior C++ and Python Developer"
+  location         : "241 Cedar St, East Lansing, MI 48823"
+  employer         : "NA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rroscoe51@icloud.com" 
 
   # Academic websites
   academia         : # URL
