@@ -19,7 +19,17 @@ My Goals:
 
 Education
 ======
-  As a Computer Science student at Michigant State.
+  As a Computer Science student at Michigant State, I my studies involve numerous classes to further my experience in computer science. These could include:
+  ------
+  | Class   | Description |
+  | ------- | ----------- |
+  | CSE 231 | Python, Introduction to Programming, Classes, File Processing, Data Structures, Functions |
+  | CSE 232 | C++, Memory, Data Structures, Algorithims, Templates, Generic Programming |
+  | CMSE 201| Data Manipulation, Model Building, Data Visualization, Libraries (Matplotlib, Pandas, Numpy, Seaborn) |
+  | MTH 132 | Calculus 1 |
+  | MTH 133 | Calculus 2 |
+  | MTH 234 | Multi Variable Calculus (Calculus 3) |
+  | PHY 183 | Physics for Engineers |
 
 Site-wide configuration
 ------
